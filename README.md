@@ -12,19 +12,19 @@ This project involves designing and developing an interactive multiple-choice qu
 
 ## Features
 
-• Multiple-choice questions. 
-• Radio buttons for answer selection. 
-• Submit button to evaluate answers. 
-• Real-time score calculation. 
-• Performance feedback at the end of the quiz. 
-• Dynamic generation of quiz from a JavaScript question bank. 
-• Timed quiz.
+- Multiple-choice questions. 
+- Radio buttons for answer selection. 
+- Submit button to evaluate answers. 
+- Real-time score calculation. 
+- Performance feedback at the end of the quiz. 
+- Dynamic generation of quiz from a JavaScript question bank. 
+- Timed quiz.
 
 ## Technologies Used 
 
-• HTML: For structuring the quiz layout and question interface. 
-• CSS: For styling, spacing, font selection, and user-friendly appearance. 
-• JavaScript: For managing quiz logic, scoring, and dynamic DOM manipulation. 
+- HTML: For structuring the quiz layout and question interface. 
+- CSS: For styling, spacing, font selection, and user-friendly appearance. 
+- JavaScript: For managing quiz logic, scoring, and dynamic DOM manipulation. 
 
 ## How to Use the Quiz 
 
@@ -36,7 +36,7 @@ This project involves designing and developing an interactive multiple-choice qu
 
 ## Working Explanation 
 
-• The questions are stored in a JavaScript array of objects. 
-• On page load, the script dynamically renders each question and its options. 
-• When the user clicks “Submit”, the script compares the selected answers with the correct ones. 
-• A score is calculated and displayed, along with a feedback message like “You scored 4 out of 5”. 
+- The questions are stored in a JavaScript array of objects. 
+- On page load, the script dynamically renders each question and its options. 
+- When the user clicks “Submit”, the script compares the selected answers with the correct ones. 
+- A score is calculated and displayed, along with a feedback message like “You scored 4 out of 5”. 
